@@ -18,3 +18,5 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMohamed500&theme=darcula)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedMohamed500&theme=dark)](https://git.io/streak-stats)
