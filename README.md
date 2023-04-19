@@ -17,3 +17,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamed500&" alt="ahmedmohamed500" /></p>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMohamed500&theme=darcula)
