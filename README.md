@@ -19,5 +19,3 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMohamed500&theme=darcula)
 
-
-![pngwing com (5)](https://user-images.githubusercontent.com/112432163/233666379-32e658e8-e067-43c9-892b-5d3ac09e194d.png)
