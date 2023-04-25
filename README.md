@@ -14,6 +14,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMohamed500&theme=vue)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMohamed500&theme=vue)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedMohamed500&theme=vue)
 
