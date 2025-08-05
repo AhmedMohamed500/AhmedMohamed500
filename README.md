@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMohamed500.AhmedMohamed500&left_color=gold&right_color=dimgray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMohamed500.AhmedMohamed500&left_color=gold&right_color=dimgray&left_text=Profile%20Visitors"  />
 </div>
 
 ###
