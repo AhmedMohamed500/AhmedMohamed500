@@ -23,9 +23,28 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 ## 🔗 Connect With Me
 
 <p align="center">
-  <code><a href="#"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin.svg" /> LinkedIn</a></code>
-  <code><a href="#"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram.svg" /> Instagram</a></code>
-  <code><a href="#"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github.svg" /> Portfolio</a></code>
+ ## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mohamed20252026/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/your-username/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+</p>
+
 </p>
 
 ---
