@@ -23,9 +23,9 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 ## 🔗 Connect With Me
 
 <p align="center">
-  <code><a href="#"><img width="22" src="images/linkedin.svg" /> LinkedIn</a></code>
-  <code><a href="#"><img width="22" src="images/instagram.svg" /> Instagram</a></code>
-  <code><a href="#"><img width="22" src="images/github.svg" /> Portfolio</a></code>
+  <code><a href="#"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin.svg" /> LinkedIn</a></code>
+  <code><a href="#"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram.svg" /> Instagram</a></code>
+  <code><a href="#"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github.svg" /> Portfolio</a></code>
 </p>
 
 ---
@@ -33,17 +33,17 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 ## 🔥 Tech Stack
 
 <p align="center">
-  <code><img title="HTML5" height="25" src="images/html5.svg" /></code>
-  <code><img title="CSS3" height="25" src="images/css.svg" /></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg" /></code>
-  <code><img title="TypeScript" height="25" src="images/typescript.png" /></code>
-  <code><img title="React" height="25" src="images/react-original.svg" /></code>
-  <code><img title="Redux Toolkit" height="25" src="images/redux.svg" /></code>
-  <code><img title="Tailwind CSS" height="25" src="images/tailwind.png" /></code>
-  <code><img title="Git" height="25" src="images/git-original.svg" /></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png" /></code>
-  <code><img title="Axios" height="25" src="images/axios.png" /></code>
-  <code><img title="API Integration" height="25" src="images/api.png" /></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code></code>
+  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code></code>
+  <code><img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code></code>
+  <code><img title="Redux Toolkit" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code></code>
+  <code><img title="Tailwind CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code></code>
+  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code></code>
+  <code><img title="Axios" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" /></code></code>
+  <code><img title="API Integration" height="25" src="https://cdn-icons-png.flaticon.com/512/149/149446.png" /></code></code>
 </p>
 
 ---
@@ -56,7 +56,7 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed&layout=compact&theme=react&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed500&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
