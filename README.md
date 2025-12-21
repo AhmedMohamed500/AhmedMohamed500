@@ -76,7 +76,16 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed500&layout=compact&theme=react&hide_border=true" />
 </p>
 
+
 ---
+
+⚡ Problem Solving
+
+### 🥋 Codewars Progress
+[![Codewars](https://www.codewars.com/users/AhmedMohamed500/badges/large)](https://www.codewars.com/users/AhmedMohamed500)
+
+---
+
 
 
 
