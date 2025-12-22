@@ -84,6 +84,10 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 ### 🥋 Codewars Progress
 [![Codewars](https://www.codewars.com/users/AhmedMohamed500/badges/large)](https://www.codewars.com/users/AhmedMohamed500)
 
+### 🧠 LeetCode Progress
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AhmedMohamed500?theme=dark&font=Karma)](https://leetcode.com/AhmedMohamed500/)
+
+
 ---
 
 
