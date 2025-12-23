@@ -8,7 +8,9 @@
   </a>
 </p>
 
-<h3 align="center">🚀 Frontend Developer | React Specialist</h3>
+<h3 align="center">🚀 Frontend Developer (React, TypeScript)
+Open to Work
+</h3>
 
 <p align="center">
 I’m Ahmed, a passionate **Frontend Developer** who loves building clean, modern, and fast web applications.
@@ -48,6 +50,18 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 
 ---
 
+## 💼 What I Can Do
+
+- Build scalable React applications with clean architecture
+- Convert UI/UX designs into responsive, pixel-perfect interfaces
+- State management using Redux Toolkit
+- API integration & error handling
+- Performance optimization & reusable components
+
+
+
+---
+
  🔥 Tech Stack
 
 <p align="center">
@@ -66,16 +80,63 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 
 ---
 
-⚡ GitHub Stats
+ ## 📌 Featured Projects
+
+### 🛒 React E-Commerce App
+- React, TypeScript, Redux Toolkit, Tailwind
+- Authentication, Cart, Checkout, API integration
+- 🔗 Live Demo | 📂 GitHub Repo
+
+  <a href="#">🔎 Show More</a>
+</p>
+
+
+---
+
+🧑‍💻 Experience
+
+### Frontend Developer Trainee (Real Projects)
+**Team-based Training with Senior Engineers**
+
+- Working on real-world web applications using React & TypeScript
+- Collaborating with engineers using Git & GitHub (pull requests, code reviews)
+- Implementing responsive UI from Figma designs
+- Integrating REST APIs and handling real data
+- Writing clean, maintainable, and reusable components
+
+### Frontend Developer (Self Projects)
+- Built multiple React applications from scratch
+- Applied best practices and clean code principles
+- Focused on performance and scalability
+
+---
+
+📊 GitHub Activity
 
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ahmed&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedMohamed500&theme=react" />
+
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed500&layout=compact&theme=react&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedMohamed500&theme=react" />
 </p>
 
+---
+
+## 🤝 Soft Skills
+- Problem Solving
+- Strong Communication
+- Teamwork
+- Fast Learner
+- Attention to Detail
+
+---
+
+## 📚 Currently Learning
+- Advanced React Patterns
+- Performance Optimization
+- Testing (Jest, React Testing Library)
 
 ---
 
@@ -88,18 +149,4 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AhmedMohamed500?theme=dark&font=Karma)](https://leetcode.com/AhmedMohamed500/)
 
 
----
 
-
-
-
- 📌 Featured Projects
-
-<p align="center">
-  <a href="#"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed&repo=react-ecommerce&theme=react&hide_border=true" /></a>
-  <a href="#"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed&repo=dashboard-ui&theme=react&hide_border=true" /></a>
-</p>
-
-<p align="center">
-  <a href="#">🔎 Show More</a>
-</p>
