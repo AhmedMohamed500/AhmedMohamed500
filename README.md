@@ -62,7 +62,7 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 
 ---
 
- 🔥 Tech Stack
+ ## 🔥 Tech Stack
 
 <p align="center">
   <code><img title="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code></code>
@@ -93,7 +93,7 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 
 ---
 
-🧑‍💻 Experience
+## 🧑‍💻 Experience
 
 ### Frontend Developer Trainee (Real Projects)
 **Team-based Training with Senior Engineers**
@@ -111,7 +111,7 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 
 ---
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedMohamed500&theme=react" />
@@ -140,7 +140,7 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 
 ---
 
-⚡ Problem Solving
+## ⚡ Problem Solving
 
 ### 🥋 Codewars Progress
 [![Codewars](https://www.codewars.com/users/AhmedMohamed500/badges/large)](https://www.codewars.com/users/AhmedMohamed500)
