@@ -80,19 +80,6 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 
 ---
 
- ## 📌 Featured Projects
-
-### 🛒 React E-Commerce App
-- React, TypeScript, Redux Toolkit, Tailwind
-- Authentication, Cart, Checkout, API integration
-- 🔗 Live Demo | 📂 GitHub Repo
-
-  <a href="#">🔎 Show More</a>
-</p>
-
-
----
-
 ## 🧑‍💻 Experience
 
 ### Frontend Developer Trainee (Real Projects)
@@ -108,6 +95,32 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 - Built multiple React applications from scratch
 - Applied best practices and clean code principles
 - Focused on performance and scalability
+
+---
+## 🧠 How I Work
+- Write clean, readable, and scalable code following best practices
+- Build reusable and maintainable components with a clear structure
+- Follow component-based architecture and modern React patterns
+- Convert Figma designs into pixel-perfect, responsive UI
+- Handle edge cases, loading states, and error scenarios gracefully
+- Integrate REST APIs with proper error handling and data validation
+- Understand REST APIs, HTTP methods, and status codes
+- Familiar with authentication and authorization flows (JWT, protected routes)
+- Focus on performance, accessibility, and user experience (UX)
+- Use Git & GitHub for version control (branches, pull requests, code reviews)
+- Communicate effectively within a team and adapt quickly to feedbac
+---
+
+ ## 📌 Featured Projects
+
+### 🛒 React E-Commerce App
+- React, TypeScript, Redux Toolkit, Tailwind
+- Authentication, Cart, Checkout, API integration
+- 🔗 Live Demo | 📂 GitHub Repo
+
+  <a href="#">🔎 Show More</a>
+</p>
+
 
 ---
 
@@ -147,6 +160,13 @@ I’m Ahmed, a passionate **Frontend Developer** who loves building clean, moder
 
 ### 🧠 LeetCode Progress
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AhmedMohamed500?theme=dark&font=Karma)](https://leetcode.com/AhmedMohamed500/)
+
+
+---
+## 📬 Let's Work Together
+I'm open to Frontend Developer opportunities and real-world projects.  
+If you're looking for a frontend developer who builds clean, scalable, and user-focused web applications,  
+feel free to connect with me on LinkedIn — I'm always happy to discuss new opportunities 🚀
 
 
 
